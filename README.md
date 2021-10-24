@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vishalsnegi
 - 👀 I’m interested in computational biology for high dimensional biological data analysis
-- 🌱 I’m currently learning various new tools for biological data analysis
-- 💞️ I’m looking to collaborate on evolutionary studies on 
+- 💞️ I’m looking to collaborate on evolutionary studies 
 - 📫 How to reach me negi@hawaii.edu or vishalsnegi@gmail.com
 
 <!---
